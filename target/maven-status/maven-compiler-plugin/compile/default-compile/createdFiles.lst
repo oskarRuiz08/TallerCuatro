@@ -1,0 +1,13 @@
+com\example\misegundaapi\rest\EstuidanteController.class
+com\example\misegundaapi\service\implement\EstudianteServiceImplement.class
+com\example\misegundaapi\service\MiUniversidadService.class
+com\example\misegundaapi\entity\EstudiantesEntity.class
+com\example\misegundaapi\entity\UniversidadEntity.class
+com\example\misegundaapi\DTO\EstudianteDTO.class
+com\example\misegundaapi\MiSegundaApiApplication.class
+com\example\misegundaapi\service\implement\UniversidadServiceImplement.class
+com\example\misegundaapi\entity\VehiculoEntity.class
+com\example\misegundaapi\repository\UniversidadRepository.class
+com\example\misegundaapi\rest\UniversidadController.class
+com\example\misegundaapi\service\MiEstudianteService.class
+com\example\misegundaapi\repository\EstudiantesRepository.class
